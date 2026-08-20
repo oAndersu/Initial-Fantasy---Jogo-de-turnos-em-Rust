@@ -111,8 +111,8 @@ O projeto ainda está em desenvolvimento. Algumas possibilidades para futuras ve
 
 O principal objetivo do **Initial Fantasy** é servir como projeto de aprendizado e prática de programação em Rust, evoluindo gradualmente conforme novos conceitos da linguagem são estudados.
 
-## 👨‍💻 Desenvolvedor
+## 👨‍💻 Desenvolvedores
 
-**oAndersus404**
+**oAndersus404, Natanglx, Moskitao, Luan, Gustavo**
 
 Projeto desenvolvido como parte do processo de aprendizado de **Rust**.
