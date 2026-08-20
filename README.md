@@ -63,7 +63,7 @@ O projeto utiliza a biblioteca `rand` para gerar as ações aleatórias do inimi
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/oAndersu/Initial-Fantasy---Jogo-de-turnos-em-Rust
 cd initial-fantasy
 ```
 
